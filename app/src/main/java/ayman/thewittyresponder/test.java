@@ -65,9 +65,6 @@ class test extends AsyncTask<Void, Void, Void>
             in.close();
             Log.i("MainActivity", "exception: " );
             Log.i("MainActivity", "that didnt work: " );
-
-
-
     }
 
 
